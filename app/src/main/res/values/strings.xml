@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiApp-GestorProyectos</string>
+    <string-array name="estado_actividad">
+        <item>Planificado</item>
+        <item>En ejecución</item>
+        <item>Realizado</item>
+    </string-array>
+
+</resources>
